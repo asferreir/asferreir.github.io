@@ -2,10 +2,8 @@
 layout: post
 title:  "Hello World !!"
 date:   2019-01-25 12:00
-categories: Hello World
+categories: HelloWorld
 ---
-
-Hello World!!
 
 Jekyll also offers powerful support for code snippets:
 

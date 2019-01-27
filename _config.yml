@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Os varios sabores da TI
+description: Espaço para compartilhar minhas experiências por esse mundo de TI.
+meta_description: "Os varios sabores da TI, Espaço para compartilhar minhas experiências por esse mundo de TI."
 
 markdown: kramdown
 highlighter: rouge

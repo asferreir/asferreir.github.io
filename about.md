@@ -3,4 +3,6 @@ layout: page
 title: About me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Profissional autodidata de infraestrutura que está buscando expandir ainda mais seus horizontes.
+
+Atuando hoje como Supervisor de Tecnologia da Informação na Teleperformance Brasil.
